@@ -19,7 +19,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 777777))
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", -1001880981234))
+LOG_GROUP_ID = int(getenv("LOGGER_ID", -1001880981234))
 
 # Get this value from @FallenxBot on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID", 6304277259))
@@ -109,8 +109,8 @@ if SUPPORT_CHANNEL:
             "[ERROR] - Your SUPPORT_CHANNEL url is wrong. Please ensure that it starts with https://"
         )
 
-if SUPPORT_CHAT:
-    if not re.match("(?:http|https)://", SUPPORT_CHAT):
+if SUPPORT_GROUP:
+    if not re.match("(?:http|https)://", SUPPORT_GROUP):
         raise SystemExit(
-            "[ERROR] - Your SUPPORT_CHAT url is wrong. Please ensure that it starts with https://"
+            "[ERROR] - Your SUPPORT_GROUP url is wrong. Please ensure that it starts with https://"
     )
