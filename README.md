@@ -1,4 +1,7 @@
-<h1 align="center">🎵 Aviax Music Bot 🎵</h1>
+<h1 align="center">
+  [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/rahulkumar-8076/Shukun-music&branch=main&name=im_doru)
+  
+  🎵 Aviax Music Bot 🎵</h1>
 
 <p align="center">
   <img src="https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg" alt="Aviax Music Logo" width="600" height="150">
