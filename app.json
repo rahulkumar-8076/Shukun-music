@@ -1,6 +1,6 @@
 {
 
-    "name": "Aviax Music",
+    "name": "Dora x Music",
 
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
 
@@ -30,7 +30,7 @@
 
         "description": "Get this value from https://my.telegram.org",
 
-        "value": "",
+        "value": "29080362",
 
         "required": true
 
@@ -40,7 +40,7 @@
 
         "description": "Get this value from https://my.telegram.org",
 
-        "value": "",
+        "value": "2af932be312ce9c4e4ecb84bce09109e",
 
         "required": true
 
@@ -60,7 +60,7 @@
 
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
 
-        "value": "",
+        "value": "mongodb+srv://Yash_607:Yash_607@cluster0.r3s9sbo.mongodb.net/?retryWrites=true&w=majority",
 
         "required": true
 
@@ -70,7 +70,7 @@
 
         "description": "The user id of user whom you would like to add as OWNER.",
 
-        "value": "",
+        "value": "7817831429",
 
         "required": true
 
@@ -80,7 +80,8 @@
 
         "description": "A Pyrogram v2 String Session from Replit.",
 
-        "value": "",
+        "value": "BQG7uyoAutvv5xYa24vaEHyaM29dMTZNgYFKmvE8pX_Kz90U1HXbc3a7pNF5ja8HZ-dl2yXlNIvaVgVlxdhytck2KwZQzr5v_h8z5lZhiKnC1pnp9lCq-TGK8W1xXyI5J1xJxT0ozUKzX2gqhD-T-F2sjRlf2S4SvQRWcJc6Qp5CzUvRUz0w3_hw22_WJ8_IFkDvDt401OTvo-awgtBTSjVGp8VfigGFm1CQb0JoxqvyK8JusbTGl-yITTXVfL7X0p-Hgy3yfh8lSjt_ZgSMmo65L4qHRpO1c-YXYGnJ1OgKRodgamk_uOa09aUod5IQ1Ti-rkkH3SebVFoN0N7BCuhT4m2kFAAAAAHR-qQFAA 
+          ",
 
         "required": true
 
@@ -110,7 +111,7 @@
 
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Do not ever try to put channel ID here.",
 
-        "value": "",
+        "value": "-1002604755252",
 
         "required": true
 
